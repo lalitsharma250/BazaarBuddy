@@ -3,8 +3,6 @@ Sample MVVM e-commerce application for Android that uses Kotlin programming lang
 - API: A set of functions and procedures allowing the creation of applications. The application uses the [link](https://dummyjson.com/) as API.
 
 
-Don't forget to star the project if you like it!  :heart: ==  :star:
-
 ##  Dependencies :high_brightness:
 
 
